@@ -18,7 +18,7 @@ Vue.use(VueRouter)
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => externalComponent(/* webpackChunkName: "module1" */ '/module1/Home.js')
+    component: () => externalComponent(/* webpackChunkName: "module1" */ '/module1/Home.5df6d51ae69c1517c7d4.umd.min.js')
   }
 ]
 
