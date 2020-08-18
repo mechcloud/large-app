@@ -1,5 +1,5 @@
 <template>
-  <h1>Main App Landing Page !!</p>
+  <h1>Main App Landing Page !!</h1>
 </template>
 
 <script>
